@@ -72,7 +72,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=coremraz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coremraz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://camo.githubusercontent.com/6d30e660c959262eee8031c300824a01aad432921787784040b561a86cd187dd/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d6666666c616273" alt="Coremraz's WakaTime stats" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=coremraz" style="max-width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=coremraz" alt="Coremraz's WakaTime stats" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=coremraz" style="max-width: 100%;">
 </div>
 
 ###
