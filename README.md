@@ -75,6 +75,7 @@
 </div>
 
 <!--START_SECTION:waka-->
+```yml
 name: Waka Readme
 
 on:
@@ -92,6 +93,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 <!--END_SECTION:waka-->
+```
 
 ###
 
