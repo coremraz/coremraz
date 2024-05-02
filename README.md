@@ -35,11 +35,11 @@
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="center">🛠 Технологии:</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" alt="PHP" />  
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="40" height="40" alt="Laravel" /> 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" /> 
@@ -52,7 +52,7 @@
 
 ###
 
-<h3 align="left">🔥Моя статистика :</h3>
+<h3 align="center">🔥Моя статистика :</h3>
 
 ###
 
