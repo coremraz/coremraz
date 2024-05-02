@@ -68,32 +68,10 @@
 </div>
 
 ###
-  [![Coding Time](https://wakatime.com/badge/user/018c1aaf-dcb1-4ded-8f09-cc91ce0a72e9.svg)](https://wakatime.com/@018c1aaf-dcb1-4ded-8f09-cc91ce0a72e9)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=coremraz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coremraz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-<!--START_SECTION:waka-->
-```yml
-name: Waka Readme
-
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-<!--END_SECTION:waka-->
-```
 
 ###
 
