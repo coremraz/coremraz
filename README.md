@@ -50,3 +50,5 @@
 <h3 align="left">🔥   Моя статистика :</h3>
 
 ###
+
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coremraz&theme=solarized_dark
