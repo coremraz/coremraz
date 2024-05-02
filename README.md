@@ -51,4 +51,6 @@
 
 ###
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coremraz&theme=solarized_dark
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coremraz&theme=solarized_dark"
+</div>
