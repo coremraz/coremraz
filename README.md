@@ -75,7 +75,7 @@
 </div>
 
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=coremraz\&layout=compact)
+[![wakatime](https://wakatime.com/badge/user/018c1aaf-dcb1-4ded-8f09-cc91ce0a72e9.svg)](https://wakatime.com/@018c1aaf-dcb1-4ded-8f09-cc91ce0a72e9)
 
 ###
 
